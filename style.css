@@ -1,0 +1,25 @@
+
+img{
+    max-width: 350px;
+    padding: 5px;
+    border: 1px solid greenyellow;
+    border-radius: 5px;
+}
+body { 
+    height: 100vh;
+    background-image: url(https://img.freepik.com/fotos-gratis/vista-superior-da-variedade-de-folhas-com-espaco-de-copia_23-2148678659.jpg?w=1380&t=st=1691556422~exp=1691557022~hmac=5c5676b9cd3af31c6123c17c123d341f2cc7cff6d35b46d760d510146935e90a);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+main { 
+    background-color: white;
+    max-width: 1200px;
+    padding: 10px;
+    margin: auto;
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+    
+
+}
